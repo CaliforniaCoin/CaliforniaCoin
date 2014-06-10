@@ -1,4 +1,4 @@
-Mac OS X litecoind build instructions
+Mac OS X californiacoind build instructions
 ====================================
 
 Authors
